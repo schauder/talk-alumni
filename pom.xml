@@ -3,11 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>de.schauderhaft</groupId>
-    <artifactId>talk-parent-mvn</artifactId>
+    <artifactId>talk-alumni</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>Parent project for talks done by Jens Schauder</name>
-    <description>Parent project for talks done by Jens Schauder
-    </description>
+    <name>Kerbal Space Program, Glücksspiel und Psychologie und was das mit dem (Berufs)leben zu tun hat.</name>
+    <description>Wenn man in das Berufsleben in der IT Branche startet denkt man vermutlich, dass man eine Menge mit Computern zu tun hat. Dem ist auch so. Aber es sind auch eine Menge Dinge relevant, die nichts mit Computern zu tun haben. Die Raumfahrtsimulation Kerbal Space Program, Glücksspiel und Psychologie sind drei davon. In diesem Vortrag erkläre ich was diese drei mit dem Berufsleben in der IT Industrie und anderswo zu tun haben, und wie sie einem helfen die Karriere vorran zu bringen.</description>
 
     <properties>
         <project.slides.directory>${project.build.directory}/generated-slides</project.slides.directory>
